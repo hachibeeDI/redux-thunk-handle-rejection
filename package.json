@@ -1,6 +1,6 @@
 {
   "name": "redux-thunk-handle-rejection",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "lib/index.js",
   "repository": "ssh://git@github.com/hachibeeDI/redux-thunk-handle-rejection.git",
   "author": "OguraDaiki <8hachibee125@gmail.com>",

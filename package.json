@@ -6,6 +6,7 @@
   "author": "OguraDaiki <8hachibee125@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "prettier": "^1.16.4",
     "redux": "^4.0.1",
     "redux-thunk": "^2.3.0"
   }

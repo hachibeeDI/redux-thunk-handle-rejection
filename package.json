@@ -1,10 +1,17 @@
 {
   "name": "redux-thunk-handle-rejection",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/index.js",
   "repository": "ssh://git@github.com/hachibeeDI/redux-thunk-handle-rejection.git",
   "author": "OguraDaiki <8hachibee125@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "type-check": "tsc --noEmit",
+    "clean": "rm -rf lib/",
+    "compile": "tsc",
+    "prepublish": "npm run clean && npm run compile"
+  },
   "devDependencies": {
     "prettier": "^1.16.4",
     "redux": "^4.0.1",

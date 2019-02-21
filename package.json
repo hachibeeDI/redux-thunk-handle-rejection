@@ -1,7 +1,17 @@
 {
   "name": "redux-thunk-handle-rejection",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "react",
+    "redux",
+    "redux=thunk",
+    "redux-middleware"
+  ],
   "repository": "ssh://git@github.com/hachibeeDI/redux-thunk-handle-rejection.git",
   "author": "OguraDaiki <8hachibee125@gmail.com>",
   "license": "MIT",
